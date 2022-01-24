@@ -1,5 +1,5 @@
 # dojo_pets_py
-Practice with OOP and class association 
+Practice with OOP and class association/inheritance 
 
 # Ninja Class
 - Attributes
